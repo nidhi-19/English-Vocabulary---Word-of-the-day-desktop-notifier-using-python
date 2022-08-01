@@ -7,4 +7,8 @@ They think about the time and place to use such a word.
 But students are negligent towards the habit of learning a new word everyday and adopt it in usage in the communication.
 Therefore this mini project in python helps in improving of english vocabulary by sending a desktop notification of a new word along with its meaning everyday.
 The project is scheduled to run everyday when the user logs on the desktop.
-The code is written in python with the help of simple libraries like pandas, plyer, os etc. and is scheduled using windows task manager.![Screenshot](https://user-images.githubusercontent.com/98505914/182180698-b1307421-4a11-45e0-992e-d7ff1dcaa278.png)
+The code is written in python with the help of simple libraries like pandas, plyer, os etc. and is scheduled using windows task manager.
+
+The scheduled run is as shown in screenshot below
+
+![Screenshot](https://user-images.githubusercontent.com/98505914/182180698-b1307421-4a11-45e0-992e-d7ff1dcaa278.png)
